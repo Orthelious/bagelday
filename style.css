@@ -1,0 +1,37 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.bg {
+	/* The image used */
+	background-image: url("bagels.jpg");
+
+	/* Full height */
+	height: 100%;
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	position: relative;
+}
+
+.date {
+	position: absolute;
+	transform: translate(-50%, -50%);
+	left: 50%;
+	top: 50%;
+	text-align: center;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 20vh;
+	text-shadow:
+	6px 6px 0 #000,
+	-3px -3px 0 #000,  
+	3px -3px 0 #000,
+	-3px 3px 0 #000,
+	3px 3px 0 #000;
+}
