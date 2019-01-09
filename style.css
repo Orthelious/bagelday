@@ -21,11 +21,33 @@ body, html {
 
 .date {
 	position: absolute;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -100%);
 	left: 50%;
 	top: 50%;
 	text-align: center;
 	color: white;
 	font-family: Arial, sans-serif;
-	font-size: 20vh;
+	font-size: 12vh;
+}
+
+.time {
+	position: absolute;
+	transform: translate(-50%, 15%);
+	left: 50%;
+	top: 50%;
+	text-align: center;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 6vh;
+}
+
+.info {
+	position: absolute;
+	transform: translate(-50%, 40%);
+	left: 50%;
+	top: 50%;
+	text-align: left;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 2vh;
 }
