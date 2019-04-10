@@ -40,9 +40,8 @@ body, html {
 	color: white;
 	font-family: Arial, sans-serif;
 	font-size: 2vh;
-	text-shadow:
-   -1px -1px 0 black,  
-    1px -1px 0 black,
-    -1px 1px 0 black,
-     1px 1px 0 black;
+	background-color: rgba(0,0,0,0.32);
+	border-radius: 4px;
+	
 }
+
