@@ -21,8 +21,7 @@ This recipe is essentially the water bagels recipe from [King Arthur Flour](http
 **Water Bath**
 
 * 2 qt — Water
-* 2 T — Brown Sugar (or [Non-Diastatic Malt Powder](https://www.kingarthurflour.com/shop/items/non-diastatic-malt-powder-16-oz) or honey)
-* 1 T — Granulated Sugar
+* 3 T — Brown Sugar (or [Non-Diastatic Malt Powder](https://www.kingarthurflour.com/shop/items/non-diastatic-malt-powder-16-oz) or honey)
 * 1 1/2 T — Baking Soda*
 
 *Some people "[bake the baking soda](https://www.nytimes.com/2010/09/15/dining/15curious.html)" to make it extra alkali. 
