@@ -16,7 +16,7 @@ This recipe is essentially the water bagels recipe from [King Arthur Flour](http
 * 2 T — [Active Dry Yeast](https://redstaryeast.com/products/red-star/red-star-active-dry-yeast/)
 * 2 T — Brown Sugar (or [Non-Diastatic Malt Powder](https://www.kingarthurflour.com/shop/items/non-diastatic-malt-powder-16-oz))
 * 4 t — Salt (I use Morton's Kosher Salt)
-* 606g Lukewarm Water (changes based on humidity in your kitchen)
+* 606g Lukewarm Water 
 
 **Water Bath**
 
