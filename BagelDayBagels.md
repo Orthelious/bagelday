@@ -37,7 +37,7 @@ This recipe is essentially the water bagels recipe from [King Arthur Flour](http
 5. Fold each piece of dough into a little ball and roll on counter to create a tight surface ([watch this video on chef steps for the technique](https://www.youtube.com/watch?v=u2OptU3CBfk&feature=youtu.be))
 6. Set dough balls on greased parchment paper and under greased plastic wrap (or damp tea towel) for ten minutes. During this time, start bringing the water bath to a low, simmering boil and preheat the oven to 425. 
 7. Poke holes in dough ball and stretch to form into donuts. Place back under cover for twenty minutes. They'll get noticeably puffy.
-8. Working 4-6 at a time, gently boil the bagels for 1 minute on each side. Transfer to a drying rack to drain off any excess liquid, then place on a parchment lined baking sheet and bake them in the oven for 20-25 minutes. Optional: coat the baking sheet with corn meal for a crunchy bottom.
+8. Working 4-6 at a time, gently boil the bagels for 15-30 seconds on each side. Transfer to a drying rack to drain off any excess liquid, then place on a parchment lined baking sheet and bake them in the oven for 20-25 minutes. Optional: coat the baking sheet with corn meal for a crunchy bottom.
 9. Let bagels cool completely on a rack before slicing open. 
 10. Store in a paper bag for a half day, plastic bag if longer. They go stale pretty quickly. 
 
